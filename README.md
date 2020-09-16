@@ -6,16 +6,16 @@ Commits N Crosses
 	|---|---|---|
 	|   |   |   |
 	|---|---|---|
-	|   |   |   |
+	|   | x |   |
 	|---|---|---|
 	|   |   |   |
 	|---|---|---|
 
 -------------
 
- Player X: <name>
+ Player X: Dan
  
- Player O: <name>
+ Player O: krs1
 
 -------------
 
