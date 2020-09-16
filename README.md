@@ -4,7 +4,7 @@ Commits N Crosses
  Game Board:
 
 	|---|---|---|
-	|   |   |   |
+	|   |   | 0 |
 	|---|---|---|
 	|   | X |   |
 	|---|---|---|
@@ -15,7 +15,7 @@ Commits N Crosses
 
  Player X: Bernat
  
- Player O: <JKasmire>
+ Player O: JKasmire
 
 -------------
 
