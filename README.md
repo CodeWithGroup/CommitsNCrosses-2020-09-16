@@ -13,7 +13,7 @@ Commits N Crosses
 
 -------------
 
- Player X: <Bernat>
+ Player X: Bernat
  
  Player O: <name>
 
